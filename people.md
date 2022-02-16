@@ -35,7 +35,7 @@ Teaching Staff
 
 ![CJLi](/images/portrait-CJLi.png)
 
-<a href="">Chiau Jou Li</a>
+<a href="sips50333@gmail.com">Chiau Jou Li</a>
 <br>
 李巧柔
 </td>
